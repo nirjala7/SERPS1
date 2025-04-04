@@ -1,0 +1,4 @@
+mkdir assignment-manager-backend
+cd assignment-manager-backend
+npm init -y
+npm install express mongoose body-parser cors
